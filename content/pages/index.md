@@ -243,7 +243,7 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     media:
       title: Geez Watch - Logo Intro
-      url: ''
+      url: 'https://youtu.be/YzB5o7d2B04?si=DCCpPko5i9xCU9Wr'
       controls: false
       aspectRatio: '16:9'
       styles:
